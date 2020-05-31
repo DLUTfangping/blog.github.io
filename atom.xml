@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>方平的博客</title>
+  
+  <subtitle>天下之大，无奇不有</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://fangpingblog.com/"/>
+  <updated>2020-05-31T12:38:23.663Z</updated>
+  <id>http://fangpingblog.com/</id>
+  
+  <author>
+    <name>方平</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文章发表</title>
+    <link href="http://fangpingblog.com/2020/05/31/wen-zhang-fa-biao/"/>
+    <id>http://fangpingblog.com/2020/05/31/wen-zhang-fa-biao/</id>
+    <published>2020-05-31T12:31:54.000Z</published>
+    <updated>2020-05-31T12:38:23.663Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一个的博客</title>
+    <link href="http://fangpingblog.com/2020/05/30/di-yi-ge-de-bo-ke/"/>
+    <id>http://fangpingblog.com/2020/05/30/di-yi-ge-de-bo-ke/</id>
+    <published>2020-05-30T13:19:27.000Z</published>
+    <updated>2020-05-30T13:28:22.404Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;仰天大笑出门去，我辈岂是蓬蒿人。&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一个博客</title>
+    <link href="http://fangpingblog.com/2020/05/30/hello-world/"/>
+    <id>http://fangpingblog.com/2020/05/30/hello-world/</id>
+    <published>2020-05-30T13:05:15.651Z</published>
+    <updated>2020-05-31T10:56:36.018Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
